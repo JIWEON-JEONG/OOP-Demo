@@ -5,4 +5,8 @@ public class OrderLineItem {
 	private String name;
 	private int amount;
 	private Order order;
+
+	public void validate() {
+
+	}
 }

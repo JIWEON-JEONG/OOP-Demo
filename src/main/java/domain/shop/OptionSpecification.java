@@ -6,4 +6,8 @@ public class OptionSpecification {
 	private String name;
 	private int price;
 	private OptionGroupSpecification specification;
+
+	public void isSatisfiedBy() {
+
+	}
 }

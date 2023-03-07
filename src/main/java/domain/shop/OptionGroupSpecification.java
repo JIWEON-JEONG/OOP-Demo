@@ -5,4 +5,8 @@ public class OptionGroupSpecification {
 	private boolean isBaseOption;
 	private boolean isExclusiveOption;
 	private Menu menu;
+
+	public void isSatisfiedBy() {
+
+	}
 }
